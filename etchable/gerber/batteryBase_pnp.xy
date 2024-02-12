@@ -4,7 +4,7 @@
 # eMail=
 #
 # Project=batteryBase
-# Date=21:12:44
+# Date=00:52:04
 # CreatedBy=Fritzing 1.0.1rc.2023-09-06.CD-1654-0-8f5f1373
 #
 #
@@ -14,9 +14,9 @@
 #
 RefDes,Description,Package,X,Y,Rotation,Side,Mount
 Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
-LED2,";;;;;;;;","0805 [SMD]",499.057,115.413,180,Top,SMT
-LED1,";;;;;;;;","0805 [SMD]",321.468,68.6644,-164,Top,SMT
 R1,"220;;;;;0.25W;;;","THT",124.913,285.638,67,Top,THT
 S1,";;;;;;;;","THT",173.825,541.691,-180,Top,THT
 BATT,";;;3.0V;;;;;","battcon_12mm_pth",482.391,465.751,90,Top,SMT
+LED4,";;;;0.030A;;;;","5 mm [THT]",567.602,120.774,-94,Top,THT
+LED3,";;;;0.030A;;;;","5 mm [THT]",337.212,73.0605,-68,Top,THT
 R2,"220;;;;;0.25W;;;","THT",268.676,242.872,44,Top,THT
